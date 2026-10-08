@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Built artifacts
+app/build/
+build/
+raw_assets/
+*.png
+!app/src/main/res/**/*.png
+*.jks
